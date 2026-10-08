@@ -210,9 +210,9 @@ position: relative;
 @media (max-width: 768px) {
 
 h1, .main-title, .jasqadam_title {
-    font-size: 28px;
-    line-height: 1.2;
-    word-break: break-word
+    font-size: 16px;
+    line-height: 1.4;
+    word-break: normal;
 
 }
 
